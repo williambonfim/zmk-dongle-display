@@ -64,4 +64,4 @@ CONFIG_ZMK_DONGLE_DISPLAY_MAC_MODIFIERS=y
 ```
 
 ## References
-- [Dongle display](hhttps://github.com/englmaxi/zmk-dongle-display) by englmaxi
+- [Dongle display](https://github.com/englmaxi/zmk-dongle-display) by englmaxi
